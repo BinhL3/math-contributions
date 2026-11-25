@@ -1,0 +1,4 @@
+  size 2 (exponent 0.2447): [(0,), (1,)]  [0s]
+  size 3 (exponent 0.3878): [(0,), (1,), (3,)]  [0s]
+  size 4 (exponent 0.4893): [(0,), (1,), (3,), (7,)]  [0s]
+m=17 r=1: best size 4, exhaustive: this is the maximum, 216 nodes, 1s

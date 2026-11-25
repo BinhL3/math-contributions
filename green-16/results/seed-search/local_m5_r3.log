@@ -1,0 +1,21 @@
+[w2] size 14 exp 0.5466
+[w9] size 14 exp 0.5466
+[w1] size 14 exp 0.5466
+[w3] size 14 exp 0.5466
+[w8] size 14 exp 0.5466
+[w7] size 14 exp 0.5466
+[w0] size 14 exp 0.5466
+[w10] size 14 exp 0.5466
+[w9] size 15 exp 0.5609
+[w4] size 15 exp 0.5609
+[w5] size 15 exp 0.5609
+[w8] size 15 exp 0.5609
+[w10] size 15 exp 0.5609
+[w1] size 15 exp 0.5609
+[w11] size 15 exp 0.5609
+[w2] size 15 exp 0.5609
+[w0] size 15 exp 0.5609
+[w3] size 15 exp 0.5609
+[w7] size 15 exp 0.5609
+[w6] size 15 exp 0.5609
+m=5 r=3: best sizes per worker [15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15]; overall max 15 (exponent 0.5609, record 0.5609)

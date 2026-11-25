@@ -1,0 +1,5 @@
+[w5] size 34 exp 0.5478
+[w3] size 35 exp 0.5523
+[w1] size 35 exp 0.5523
+[w8] size 34 exp 0.5478
+m=5 r=4: best sizes per worker [34, 34, 34, 34, 34, 34, 34, 35, 35, 35]; overall max 35 (exponent 0.5523, record 0.5609)
