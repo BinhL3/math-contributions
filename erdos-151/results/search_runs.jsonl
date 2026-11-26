@@ -1,0 +1,2 @@
+{"n": 9, "seed": "random", "seconds": 20, "results": [{"worker": 0, "tau": 5, "bound": 5, "triangles": 4, "steps": 728480, "g6": "HGTudWy", "counterexamples": []}, {"worker": 1, "tau": 5, "bound": 5, "triangles": 4, "steps": 727018, "g6": "HzA?|pK", "counterexamples": []}]}
+{"n": 13, "seed": "C13:1,5", "seconds": 30, "results": [{"worker": 0, "tau": 9, "bound": 9, "triangles": 0, "steps": 197120, "g6": "LhEIHEPQHGaPaP", "counterexamples": []}, {"worker": 1, "tau": 9, "bound": 9, "triangles": 0, "steps": 197045, "g6": "LhEIHEPQHGaPaP", "counterexamples": []}]}
